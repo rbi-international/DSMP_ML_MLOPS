@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Week_11/Data_Analysis_Process/working_with_csv_files/Datasets
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
